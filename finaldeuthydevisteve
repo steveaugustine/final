@@ -80,7 +80,7 @@ elif x==2:
         oddeven(x1)
     elif a1==2:
         x1=int(input("Enter the number:"))
-        factorial(x)
+        factorial(x1)
     elif a1==3:
         
         print("ARMSTRONG NUMBER")
